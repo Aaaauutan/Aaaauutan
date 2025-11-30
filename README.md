@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi there!
 
-<!--
-**Aaaauutan/Aaaauutan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome To My profile Github! 
 
-Here are some ideas to get you started:
+**i'm** Moly or Aaaauutan! i'm Just A normal developer thats interest Ai and python language. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## thank you for read this ♡
+
+<--!
+hello! this Is secret paragraf!
+
+in there i work in this project : **ZDayTa**
+
+**shorts Explain** : This is open-source Database ceations, Thats Run Local, You can tunneling Your website And You have to Create KeyData, and if You wan't You can connect to your vps or homeserver.
+
+**Progress** : In progress.
+--!>
